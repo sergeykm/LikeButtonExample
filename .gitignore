@@ -1,0 +1,4 @@
+/static/
+/templates/
+*.yaml
+main.pyc
